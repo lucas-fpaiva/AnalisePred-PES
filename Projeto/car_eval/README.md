@@ -6,4 +6,4 @@ Links para os notebooks:
 
 [Comparação dos modelos](https://github.com/lucas-fpaiva/AnalisePred_I/blob/main/Projeto/car_eval/classifier_car.ipynb)
 
-[Vizualização dos resultados](https://github.com/lucas-fpaiva/AnalisePred_I/blob/main/Projeto/car_eval/results_view.ipynb)
+[Visualização dos resultados](https://github.com/lucas-fpaiva/AnalisePred_I/blob/main/Projeto/car_eval/results_view.ipynb)
